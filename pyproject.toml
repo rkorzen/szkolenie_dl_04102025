@@ -1,0 +1,21 @@
+[project]
+name = "pytorch-for-dl-with-python-bootcamp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "black>=25.9.0",
+    "isort>=6.1.0",
+    "jupyter>=1.1.1",
+    "jupyterlab-code-formatter>=3.0.2",
+    "matplotlib>=3.10.6",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.50.0",
+    "tensorflow-macos>=2.16.2",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+]
